@@ -1,2 +1,2 @@
 # Estoque
-Projeto controle de Estoque no python desenvolvido no MySQL
+Projeto controle de Estoque no python desenvolvido no comando MySQL usando interface grafíca
